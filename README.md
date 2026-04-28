@@ -1,4 +1,4 @@
-exVivo.R contains code necessary for differential gene expression and allele-specific expression
+exVivo2.R contains code necessary for differential gene expression and allele-specific expression
 
 deseq2_input.zip contains filtered output from rsem which is used as input for differential gene expression analysis with Deseq2
 
